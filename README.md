@@ -1,2 +1,1 @@
-# C25_pro
-project 
+# CP-2
